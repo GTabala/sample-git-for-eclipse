@@ -1,3 +1,3 @@
-# sample-git-for-eclipse
+# Welcome to sample-git-for-eclipse
 
-A sample of integration git into eclipse
+A sample of integration git into eclipse 
