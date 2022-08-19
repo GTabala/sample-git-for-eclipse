@@ -2,6 +2,7 @@ package com.gene.model;
 
 public class User {
 	private String name;
+	private int age;
 
 	public String getName() {
 		return name;
